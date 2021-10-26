@@ -161,6 +161,7 @@ manager.getEmployees();
 Google Document Link:
 https://docs.google.com/document/d/1NIUtuqLYpyQxdU--W4b6dTZxqzCE56uN8HdZzgC3Bsg/edit?usp=sharing
 
+Figma Design
 
 
 */
